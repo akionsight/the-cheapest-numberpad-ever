@@ -1,0 +1,20 @@
+.btn {
+margin-right: 5px;
+margin-left: 5px;
+margin-top: 10px;
+}
+
+#numpad-buttons {
+position: absolute;
+bottom: 0;
+}
+
+#enter-button #backspace-button {
+margin-bottom: 20px;
+}
+
+.btn {
+line-height: 3;
+font-size: 1.2rem;
+font-weight: 1000;
+}
