@@ -20,4 +20,4 @@ To change the settings, you can edit the config.json file, as of now only two th
   
 This app technically exposes a keyboard **with sudo perms** over the network, although the numbers are checked to ensure that they are just that, numbers and not malicious code, but the data is still sent over to the app via http and non encrypted websockets, that is, basically plain text, so i recommend only using this on your trusted home network and not on public wifi, beware, you have been warned
   
- This project is licensed under AGPL
+ This project is licensed under AGPLv3
